@@ -1,3 +1,13 @@
 \Extra
 Extra
 *.DS_Store
+xcuserdata/
+*.DS_Store
+*~
+*.xccheckout
+Pods/
+*.app.dSYM.zip
+*.ipa
+report.xml
+vendor/
+.bundle/
